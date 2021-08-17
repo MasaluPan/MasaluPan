@@ -1,6 +1,6 @@
 # Hello therem I'm MasaluPan👋
 
-I love Haskell!:heart:
+I love Haskell  :heart:
 <br>Now, I'm a master student in computer science. Currently working on **microservices**.
 <br>
 <br>Thank you for your visit. I'm looking forward to hearing more advices on programming.
