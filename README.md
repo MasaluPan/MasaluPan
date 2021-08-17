@@ -2,7 +2,7 @@
 
 Now, I'm working as a Software Engineerin in Software Integration Industry.
 <br>
-<br>I love Haskell!
+<br>I love Haskell!:heart:
 <br>
 <br>Thank you for your visit. I'm looking forward to hearing more advices on programming.
 <br>If there is any chance to join the development of open source, plz contact me without hesitation.
