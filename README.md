@@ -1,7 +1,7 @@
 # Hello therem I'm MasaluPan👋
 
 I love Haskell  :heart:
-<br>Now, I'm a master student in computer science. Currently working on **microservices**.
+<br>I'm a master student in computer science. Currently working on **microservices**.
 <br>
 <br>Thank you for your visit. I'm looking forward to hearing more advices on programming.
 <br>If there is any chance to join the development of open source, plz contact me without hesitation.
