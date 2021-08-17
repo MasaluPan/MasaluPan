@@ -1,6 +1,6 @@
 # Hello therem I'm MasaluPan👋
 
-Now, I'm working as a Software Engineerin in Software Integration Industry.
+Now, I'm working as a Software Engineer in Software Integration Industry.
 <br>
 <br>I love Haskell!:heart:
 <br>
