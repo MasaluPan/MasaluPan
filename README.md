@@ -1,6 +1,6 @@
 # Hello there I'm Masalu Pan👋
 
-I love Haskell  :heart:
+I love funtional programming  :heart:
 <br>I'm a master student in computer science. Currently working on **microservices**.
 <br>
 <br>Thank you for your visit. I'm looking forward to hearing more advices on programming.
